@@ -12,6 +12,9 @@ A method for editing images from human instructions, given an input image and a 
 ![image](https://github.com/usmaan0786/FYP-Class-Based-Image-Editing/assets/72275107/cecb9084-a909-4cd3-bfb9-385f7f9052d5)
 
 ## Results
+![Screenshot 2023-12-03 160108](https://github.com/usmaan0786/FYP-Class-Based-Image-Editing/assets/72275107/69c48f15-6098-4159-9662-262888489951)
+![Screenshot 2023-12-03 160156 (1)](https://github.com/usmaan0786/FYP-Class-Based-Image-Editing/assets/72275107/81780c4e-70b7-4d1d-b309-e9bf22194405)
+
 ![Screenshot 2023-11-30 201324](https://github.com/usmaan0786/FYP-Class-Based-Image-Editing/assets/72275107/b122668b-94d5-47d0-9c24-cc200f818e9f)
 ![Screenshot 2023-11-30 201502](https://github.com/usmaan0786/FYP-Class-Based-Image-Editing/assets/72275107/e54ab553-5296-47de-9180-516fdd9dd98b)
 ![Screenshot 2023-11-30 201304](https://github.com/usmaan0786/FYP-Class-Based-Image-Editing/assets/72275107/925ac13c-0361-4386-9143-7054313147ed)
