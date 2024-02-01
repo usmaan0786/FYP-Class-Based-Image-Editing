@@ -1,4 +1,8 @@
 # FYP-Class-Based-Image-Editing
+
+## Abstract
+We have introduced an approach for image editing that operates on human specified labels. When presented with an input image along with labels, our model accurately follows these instructions to carry out edits. To create our training dataset, we utilize Generative Adversarial Networks (GANs), specifically employing Conditional GANs and CycleGANs models. In this project, our primary focus revolves around manipulating colors, seamlessly transitioning between green, red, black, and blue tones. Our training dataset is composed of approximately 3000 images for each color class, sourced from our e-commerce datasets. The models undergo training to adeptly edit input images, generating precise and visually appealing outcomes. The editing process is guided by the conditioned label, ensuring a personalized approach for each color—be it green, red, black, or blue. 
+
 ## Inroduction
 A method for editing images from human instructions, given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image.
 
